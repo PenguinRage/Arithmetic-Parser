@@ -1,6 +1,8 @@
 -----------------------------------------------------------
 --Testing Script for Assignment----------------------------
 -----------------------------------------------------------
+--  Created by Ian Cleasby on 26/08/2016.
+--  Copyright © 2016 Ian Cleasby. All rights reserved.
 -- Importing Assignment.hs and Haskell's test unit
 import Assignment1
 import Test.HUnit
