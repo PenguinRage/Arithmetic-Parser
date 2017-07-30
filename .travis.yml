@@ -4,3 +4,6 @@ ghc: 8.0.2
 
 install:
   - cabal install hunit
+
+script:
+  - cabal configure --enable-tests -fFOO && cabal build && ./Main
