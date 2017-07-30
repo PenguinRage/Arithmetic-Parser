@@ -1,4 +1,4 @@
-# COMP3109 Assignment 1 - Arithmetic Parser
+# COMP3109 Assignment 1 - Arithmetic Parser [![Build Status](https://travis-ci.org/PenguinRage/Arithmetic-Parser.svg?branch=master)](https://travis-ci.org/PenguinRage/Arithmetic-Parser)
 ## By Ian Cleasby
 ## Date: 26/08/2016
 
