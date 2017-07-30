@@ -158,3 +158,5 @@ runTests = do
     print "Test Results : Question 3 - simplify"
     runTestTT simplifyTests
 
+main = runTests
+
